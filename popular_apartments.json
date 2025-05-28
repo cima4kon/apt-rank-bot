@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "name": "동탄 포레파크 푸르지오",
+    "location": "화성시 산척동",
+    "builder": "대우건설",
+    "units": 1000,
+    "date": "2025-06-25",
+    "score": 115
+  },
+  {
+    "rank": 2,
+    "name": "고덕강일 대성베르힐",
+    "location": "서울 강동구",
+    "builder": "대성건설",
+    "units": 890,
+    "date": "2025-06-30",
+    "score": 103
+  },
+  {
+    "rank": 3,
+    "name": "청주 동남파크자이",
+    "location": "충북 청주시",
+    "builder": "GS건설",
+    "units": 1250,
+    "date": "2025-07-10",
+    "score": 97
+  },
+  {
+    "rank": 4,
+    "name": "힐스테이트 만촌역",
+    "location": "대구 수성구",
+    "builder": "현대건설",
+    "units": 780,
+    "date": "2025-06-20",
+    "score": 82
+  },
+  {
+    "rank": 5,
+    "name": "연산 더샵 센텀포레",
+    "location": "부산 연제구",
+    "builder": "포스코건설",
+    "units": 660,
+    "date": "2025-07-05",
+    "score": 71
+  }
+]
