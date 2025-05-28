@@ -6,7 +6,7 @@
     "builder": "대우건설",
     "units": 1000,
     "date": "2025-06-25",
-    "score": 115
+    "score": 110
   },
   {
     "rank": 2,
@@ -24,7 +24,7 @@
     "builder": "GS건설",
     "units": 1250,
     "date": "2025-07-10",
-    "score": 97
+    "score": 102
   },
   {
     "rank": 4,
@@ -33,7 +33,7 @@
     "builder": "현대건설",
     "units": 780,
     "date": "2025-06-20",
-    "score": 82
+    "score": 92
   },
   {
     "rank": 5,
@@ -42,6 +42,51 @@
     "builder": "포스코건설",
     "units": 660,
     "date": "2025-07-05",
-    "score": 71
+    "score": 86
+  },
+  {
+    "rank": 6,
+    "name": "하남 감일 푸르지오",
+    "location": "하남시 감일동",
+    "builder": "대우건설",
+    "units": 970,
+    "date": "2025-07-01",
+    "score": 84
+  },
+  {
+    "rank": 7,
+    "name": "세종 자이 더 시티",
+    "location": "세종시 6-4생활권",
+    "builder": "GS건설",
+    "units": 850,
+    "date": "2025-07-03",
+    "score": 78
+  },
+  {
+    "rank": 8,
+    "name": "의정부 푸르지오 센트럴",
+    "location": "의정부시 가능동",
+    "builder": "대우건설",
+    "units": 920,
+    "date": "2025-06-28",
+    "score": 74
+  },
+  {
+    "rank": 9,
+    "name": "창원 한화 포레나",
+    "location": "경남 창원시 성산구",
+    "builder": "한화건설",
+    "units": 1050,
+    "date": "2025-07-08",
+    "score": 70
+  },
+  {
+    "rank": 10,
+    "name": "파주 운정 더샵 라피아노",
+    "location": "경기 파주시 운정3지구",
+    "builder": "포스코건설",
+    "units": 760,
+    "date": "2025-07-12",
+    "score": 62
   }
 ]
